@@ -1,0 +1,63 @@
+{
+ "id": "287",
+ "name_cn": "笔墨纹",
+ "name_en": "Brush and Ink Pattern",
+ "pinyin": "bǐ mò wén",
+ "category": "吉祥器物纹",
+ "summary": "以毛笔与墨锭为主要元素，构图简洁而具书卷气，寓意文运、书香与表达。",
+ "meaning": "清雅",
+ "symbolism": "文运、书香、表达、才思、勤学",
+ "period": "伴随书写文化长期发展，明清文房与文人题材装饰中较为常见。",
+ "region": "",
+ "carriers": [],
+ "composition": "常以毛笔斜向或纵向排列，墨锭与笔架作为稳定块面，辅以砚台、印章、墨迹和书法线条。可形成散点纹、边饰纹或案头构图。",
+ "modern": "书法品牌、文具设计、文化海报、阅读产品、教育空间、艺术衍生品",
+ "visual_keywords": [
+  "毛笔长线形成主要方向",
+  "墨锭提供规整几何形",
+  "水墨晕染增强层次",
+  "书法和印章强化文人气息"
+ ],
+ "tags": [
+  "笔墨纹",
+  "文房纹",
+  "书法纹样",
+  "文运纹",
+  "书香纹样",
+  "器物纹",
+  "文运",
+  "书香",
+  "表达",
+  "才思",
+  "勤学",
+  "书写器物纹",
+  "毛笔",
+  "墨锭",
+  "笔架",
+  "砚台",
+  "墨迹",
+  "清雅"
+ ],
+ "colors": [
+  "墨黑",
+  "米白",
+  "深青",
+  "古金"
+ ],
+ "related": [
+  "文房四宝纹",
+  "砚台纹",
+  "书画纹",
+  "清供纹"
+ ],
+ "slug": "brush-and-ink-pattern",
+ "url": "https://wenyang.net/#/p/brush-and-ink-pattern",
+ "batch": "第15批_281-300_吉祥器物纹",
+ "card_image": "patterns/281-300_吉祥器物纹/287_笔墨纹_卡片图.jpg",
+ "detail_page": "patterns/281-300_吉祥器物纹/287_笔墨纹_详情页.md",
+ "meta_json": "patterns/281-300_吉祥器物纹/287_笔墨纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "29395c1cffdb3237c6dd906efbb857b2cbee29c5b68c5a9701c4ff0f9ef1a8f1",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

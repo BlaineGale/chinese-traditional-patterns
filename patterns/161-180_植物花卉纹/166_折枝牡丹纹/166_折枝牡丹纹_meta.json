@@ -1,0 +1,55 @@
+{
+ "id": "166",
+ "name_cn": "折枝牡丹纹",
+ "name_en": "Broken-Branch Peony Pattern",
+ "pinyin": "zhé zhī mǔ dān wén",
+ "category": "植物花卉纹",
+ "summary": "单枝牡丹入纹，构图疏朗留白得宜，寓意富贵、秀美与吉祥。",
+ "meaning": "富贵、圆满、吉祥",
+ "symbolism": "富贵、秀美、吉祥",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉、展览图录",
+ "visual_keywords": [
+  "主体形态清晰，便于识别",
+  "枝叶与花形层次分明",
+  "右侧半圆主视觉保留传统图谱感",
+  "适合用于卡片、详情页与网站瀑布流展示"
+ ],
+ "tags": [
+  "富贵",
+  "秀美",
+  "吉祥",
+  "牡丹",
+  "花苞",
+  "枝叶",
+  "单枝构图",
+  "圆满"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "浅金",
+  "青绿",
+  "朱砂",
+  "淡粉"
+ ],
+ "related": [
+  "牡丹纹",
+  "缠枝牡丹纹",
+  "宝相花纹",
+  "团花纹"
+ ],
+ "slug": "broken-branch-peony-pattern",
+ "url": "https://wenyang.net/#/p/broken-branch-peony-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/166_折枝牡丹纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/166_折枝牡丹纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/166_折枝牡丹纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "bb12c5f9e47fff879983229f9db8d04584951460602704cf34bf5a276b1239e3",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "498",
+ "name_cn": "兽面云雷纹",
+ "name_en": "Beast-Mask and Cloud-Thunder Pattern",
+ "pinyin": "shòu miàn yún léi wén",
+ "category": "动物瑞兽纹",
+ "summary": "以威严兽面与连续云雷回纹同构为核心，融合火焰宝珠与花卉边饰，表现镇守护佑、威仪秩序与古朴力量。",
+ "meaning": "护佑、威仪、秩序",
+ "symbolism": "镇守、威仪、护佑、秩序",
+ "period": "不限定单一时期。相关狮子、麒麟、天马、夔兽、兽面及复合神兽题材长期见于青铜器、建筑彩画、宫廷织绣、瓷器、石刻、木雕漆器和民间吉祥装饰；本批卡片为现代原创再设计，不对应或复制单一文物图案。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常由正面兽面、对称双角、火焰宝珠、云雷回纹、牡丹或瑞草边饰组成。兽面占据中心，云雷纹在四周连续展开，形成对称、严整的结构。",
+ "modern": "建筑入口图形、安防与守护品牌、文博文创、家具五金纹饰、包装边框、数字插画",
+ "visual_keywords": [
+  "正面兽面构图对称，威仪感强",
+  "云雷回纹连续折转，形成几何秩序",
+  "火焰宝珠提升神圣与守护意味",
+  "铜绿、青绿、浅金与朱砂古朴庄重"
+ ],
+ "tags": [
+  "兽面云雷纹",
+  "兽面纹",
+  "云雷纹",
+  "镇守纹",
+  "镇守",
+  "威仪",
+  "护佑",
+  "秩序"
+ ],
+ "colors": [
+  "青铜绿",
+  "青绿",
+  "浅金",
+  "朱砂",
+  "米白"
+ ],
+ "related": [
+  "夔兽纹",
+  "云雷纹"
+ ],
+ "slug": "beast-mask-and-cloud-thunder-pattern",
+ "url": "https://wenyang.net/#/p/beast-mask-and-cloud-thunder-pattern",
+ "batch": "第25批_481-500_动物瑞兽纹",
+ "card_image": "patterns/481-500_动物瑞兽纹/498_兽面云雷纹_卡片图.jpg",
+ "detail_page": "patterns/481-500_动物瑞兽纹/498_兽面云雷纹_详情页.md",
+ "meta_json": "patterns/481-500_动物瑞兽纹/498_兽面云雷纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "1be9bdffa5c11938f4d856f701bdf07e1f6ae32bc7b1c42d8c0fb01d80c96a26",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "109",
+ "name_cn": "拐子龙纹",
+ "name_en": "Angular Dragon Pattern",
+ "pinyin": "guǎi zǐ lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以方折线条表现龙形，结构规整，多见于家具与器物装饰，寓意守护、秩序与威严。",
+ "meaning": "护佑、秩序、威仪",
+ "symbolism": "守护、秩序、威严",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "拐子龙纹以方折、转角和回环线条构成龙形，龙首、龙身和尾部常被几何化处理，形成规整、对称而富有装饰秩序的结构。",
+ "modern": "中式家具纹样、品牌边框、几何图案系统、文创礼盒、空间导视装饰",
+ "visual_keywords": [
+  "以直线、折线和回纹为主",
+  "龙形高度几何化、符号化",
+  "结构规整，节奏明确",
+  "常见木雕、家具和器物装饰感",
+  "适合做边框、角饰和连续纹样"
+ ],
+ "tags": [
+  "龙纹",
+  "拐子龙纹",
+  "几何纹",
+  "回纹",
+  "器物纹样",
+  "守护",
+  "秩序",
+  "威严",
+  "方折线",
+  "几何龙形",
+  "云角",
+  "器物边饰",
+  "护佑",
+  "威仪"
+ ],
+ "colors": [
+  "青绿",
+  "古金",
+  "赭石",
+  "墨黑"
+ ],
+ "related": [
+  "回纹",
+  "雷纹",
+  "草龙纹",
+  "团龙纹",
+  "夔龙纹"
+ ],
+ "slug": "angular-dragon-pattern",
+ "url": "https://wenyang.net/#/p/angular-dragon-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/109_拐子龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/109_拐子龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/109_拐子龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "1adcf3af5f57558b803335352d24f0c67d2950a0c0b614c07a1b7e07018be460",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

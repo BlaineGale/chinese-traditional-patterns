@@ -1,0 +1,42 @@
+{
+ "id": "218",
+ "name_cn": "套圆纹",
+ "name_en": "Nested Circle Pattern",
+ "pinyin": "tào yuán wén",
+ "category": "几何锦纹",
+ "summary": "圆形层层相套，视觉柔和稳定。",
+ "meaning": "圆满、秩序",
+ "symbolism": "圆满、循环、和合",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "",
+ "visual_keywords": [],
+ "tags": [
+  "圆满",
+  "循环",
+  "和合",
+  "同心圆",
+  "金线",
+  "米白",
+  "秩序"
+ ],
+ "colors": [
+  "米白",
+  "米色",
+  "银灰",
+  "暖白"
+ ],
+ "related": [],
+ "slug": "nested-circle-pattern",
+ "url": "https://wenyang.net/#/p/nested-circle-pattern",
+ "batch": "第11批_201-220_几何锦纹",
+ "card_image": "patterns/201-220_几何锦纹/218_套圆纹_卡片图.jpg",
+ "detail_page": "patterns/201-220_几何锦纹/218_套圆纹_详情页.md",
+ "meta_json": "patterns/201-220_几何锦纹/218_套圆纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "ba44045de39822d0811a8eb873884ccb60268408eda84cf51cdccd38b8e9fa15",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

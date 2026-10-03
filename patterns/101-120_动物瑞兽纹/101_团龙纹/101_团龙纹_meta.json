@@ -1,0 +1,61 @@
+{
+ "id": "101",
+ "name_cn": "团龙纹",
+ "name_en": "Round Dragon Medallion Pattern",
+ "pinyin": "tuán lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以圆形团龙为主体，常见于服饰、瓷器与宫廷装饰之中，寓意尊贵、圆满与权威。",
+ "meaning": "富贵、圆满、威仪",
+ "symbolism": "尊贵、圆满、权威",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "通常以盘绕成圆的龙形为主体，龙首、龙身、龙爪与祥云、火珠共同组成团形结构。龙身随圆形边界回转，形成完整、凝聚而有中心感的装饰画面。",
+ "modern": "品牌徽章、文创卡片、包装中心纹、服饰印花、博物馆视觉系统",
+ "visual_keywords": [
+  "整体构图呈圆形或近圆形",
+  "龙身盘绕回旋，具有团形秩序",
+  "常配祥云、火珠和金线边饰",
+  "适合做团花、器物中心纹和服饰胸背纹",
+  "视觉重心集中，装饰感庄重"
+ ],
+ "tags": [
+  "龙纹",
+  "团龙纹",
+  "团纹",
+  "瑞兽纹",
+  "吉祥纹样",
+  "宫廷纹样",
+  "尊贵",
+  "圆满",
+  "权威",
+  "盘龙",
+  "祥云",
+  "火珠",
+  "团形边框",
+  "鳞片",
+  "富贵",
+  "威仪"
+ ],
+ "colors": [
+  "深青",
+  "古金",
+  "朱砂",
+  "米白"
+ ],
+ "related": [
+  "云龙纹",
+  "行龙纹",
+  "升龙纹"
+ ],
+ "slug": "round-dragon-medallion-pattern",
+ "url": "https://wenyang.net/#/p/round-dragon-medallion-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/101_团龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/101_团龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/101_团龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "b8af994724814d12380f9b48251fa9cf8e7f8a84294628d100d346b6942b5379",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

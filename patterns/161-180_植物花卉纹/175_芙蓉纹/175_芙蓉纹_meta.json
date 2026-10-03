@@ -1,0 +1,56 @@
+{
+ "id": "175",
+ "name_cn": "芙蓉纹",
+ "name_en": "Hibiscus Pattern",
+ "pinyin": "fú róng wén",
+ "category": "植物花卉纹",
+ "summary": "芙蓉花舒展清丽，枝叶柔美自然，寓意美好、荣华与清雅之姿。",
+ "meaning": "清雅、圆满、富贵",
+ "symbolism": "清丽、美好、荣华",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "主体花形清晰",
+  "枝叶走势有节奏",
+  "适合半圆主视觉",
+  "适合线稿辅助装饰"
+ ],
+ "tags": [
+  "清丽",
+  "美好",
+  "荣华",
+  "芙蓉花",
+  "绿叶",
+  "花苞",
+  "水边纹样",
+  "清雅",
+  "圆满",
+  "富贵"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "青绿",
+  "浅金"
+ ],
+ "related": [
+  "荷花纹",
+  "茶花纹",
+  "芍药纹",
+  "折枝莲纹",
+  "花草边纹"
+ ],
+ "slug": "hibiscus-pattern",
+ "url": "https://wenyang.net/#/p/hibiscus-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/175_芙蓉纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/175_芙蓉纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/175_芙蓉纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "ff3b9a00aa1f8c06c55b78208742c85bbd7b89d0c04c244db97f14ca2770668d",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

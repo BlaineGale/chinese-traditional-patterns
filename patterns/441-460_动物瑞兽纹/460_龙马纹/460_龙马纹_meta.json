@@ -1,0 +1,54 @@
+{
+ "id": "460",
+ "name_cn": "龙马纹",
+ "name_en": "Dragon Horse Pattern",
+ "pinyin": "lóng mǎ wén",
+ "category": "动物瑞兽纹",
+ "summary": "以龙马为核心，融合龙首、马身、鳞甲、祥云和火焰宝珠，呈现权威祥瑞、昂扬升腾的神兽形象。",
+ "meaning": "威仪、祥瑞、升腾",
+ "symbolism": "权威、祥瑞、升腾",
+ "period": "不限定单一时期，相关神兽题材长期见于宫廷织绣、建筑彩画、瓷器、玉器、金银器与民间吉祥装饰，并可用于现代新中式设计再创作。",
+ "region": "",
+ "carriers": [],
+ "composition": "画面以龙马昂首腾跃为主体，前蹄高举，鳞甲覆盖躯干，龙角和长鬃向后飞扬。火焰宝珠位于上方，祥云围绕身体，牡丹、山石与瑞草布置在下方，形成稳定的竖向构图。",
+ "modern": "企业精神图形、赛事与奖项视觉、文博文创、高端礼盒、游戏神兽设计、数字插画",
+ "visual_keywords": [
+  "龙首、龙角、鳞甲与马蹄组合鲜明",
+  "腾跃姿态和飞扬鬃尾强化昂扬气势",
+  "火焰宝珠与祥云突出权威祥瑞含义",
+  "青绿、浅金、朱砂和米白庄重华丽"
+ ],
+ "tags": [
+  "龙马纹",
+  "龙兽纹",
+  "升腾瑞兽纹",
+  "权威",
+  "祥瑞",
+  "升腾",
+  "威仪"
+ ],
+ "colors": [
+  "青绿",
+  "浅金",
+  "朱砂",
+  "米白",
+  "墨黑"
+ ],
+ "related": [
+  "天马飞云纹",
+  "天马海水纹",
+  "龙鱼纹",
+  "麒麟纹",
+  "云龙纹"
+ ],
+ "slug": "dragon-horse-pattern",
+ "url": "https://wenyang.net/#/p/dragon-horse-pattern",
+ "batch": "第23批_441-460_动物瑞兽纹",
+ "card_image": "patterns/441-460_动物瑞兽纹/460_龙马纹_卡片图.jpg",
+ "detail_page": "patterns/441-460_动物瑞兽纹/460_龙马纹_详情页.md",
+ "meta_json": "patterns/441-460_动物瑞兽纹/460_龙马纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "0ad229edda3af0ff111a106c9daac459a3ad6f987688af3f851ec50c77c6dbf5",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

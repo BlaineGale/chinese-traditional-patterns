@@ -1,0 +1,52 @@
+{
+ "id": "445",
+ "name_cn": "蚕纹",
+ "name_en": "Silkworm Pattern",
+ "pinyin": "cán wén",
+ "category": "动物瑞兽纹",
+ "summary": "以蚕为主题，着重表现丝织文化中的勤劳与繁衍意趣，常见于绘画、器物与织绣装饰。",
+ "meaning": "坚贞、生机",
+ "symbolism": "勤劳、丝织、繁衍",
+ "period": "不限定单一时期，相关花鸟虫鱼题材长期见于传统绘画、瓷器、织绣、建筑及器物装饰，并可用于现代新中式设计再创作。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常由桑枝、桑叶、桑葚、若干蚕体、花枝和山石组成。大片桑叶形成主要承载面，蚕分布于叶片和枝干之间，桑葚与小花补充色彩，构成繁茂的生态画面。",
+ "modern": "丝绸品牌、非遗展陈、教育插画、包装设计、文具图案、数字内容",
+ "visual_keywords": [
+  "白色蚕体节段清晰，分布在深绿桑叶之间",
+  "桑叶宽大、叶脉明显，形成稳定视觉底座",
+  "桑葚、花枝与山石丰富环境层次",
+  "桑绿、乳白、米白和淡粉形成温和自然配色"
+ ],
+ "tags": [
+  "蚕纹",
+  "桑叶纹",
+  "丝织文化纹样",
+  "勤劳纹样",
+  "繁衍纹样",
+  "非遗纹样",
+  "勤劳",
+  "丝织",
+  "繁衍",
+  "坚贞",
+  "生机"
+ ],
+ "colors": [
+  "青绿",
+  "暖白",
+  "米白",
+  "淡粉",
+  "浅金"
+ ],
+ "related": [],
+ "slug": "silkworm-pattern",
+ "url": "https://wenyang.net/#/p/silkworm-pattern",
+ "batch": "第23批_441-460_动物瑞兽纹",
+ "card_image": "patterns/441-460_动物瑞兽纹/445_蚕纹_卡片图.jpg",
+ "detail_page": "patterns/441-460_动物瑞兽纹/445_蚕纹_详情页.md",
+ "meta_json": "patterns/441-460_动物瑞兽纹/445_蚕纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "1f7cdb4a3a2d00c3403e14cb1f93794aadd2123acaa52f925c3f3e3193ef5641",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

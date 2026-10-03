@@ -1,0 +1,54 @@
+{
+ "id": "180",
+ "name_cn": "梨花纹",
+ "name_en": "Pear Blossom Pattern",
+ "pinyin": "lí huā wén",
+ "category": "植物花卉纹",
+ "summary": "梨花白瓣清雅洁净，枝叶疏朗淡雅，寓意纯净、清雅与春日之美。",
+ "meaning": "清雅、自然",
+ "symbolism": "纯净、清雅、春意",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "主体花形清晰",
+  "枝叶走势有节奏",
+  "适合半圆主视觉",
+  "适合线稿辅助装饰"
+ ],
+ "tags": [
+  "纯净",
+  "清雅",
+  "春意",
+  "梨花",
+  "白瓣",
+  "花苞",
+  "枝叶",
+  "自然"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "青绿",
+  "浅金"
+ ],
+ "related": [
+  "杏花纹",
+  "玉兰纹",
+  "折枝梅纹",
+  "桃花纹",
+  "花卉锦地纹"
+ ],
+ "slug": "pear-blossom-pattern",
+ "url": "https://wenyang.net/#/p/pear-blossom-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/180_梨花纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/180_梨花纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/180_梨花纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "83f301254d5f2986af241035656de692530a4a2608ab711baf16228712c210d7",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

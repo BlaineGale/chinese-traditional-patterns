@@ -1,0 +1,63 @@
+{
+ "id": "119",
+ "name_cn": "辟邪纹",
+ "name_en": "Bixie Guardian Beast Pattern",
+ "pinyin": "bì xié wén",
+ "category": "动物瑞兽纹",
+ "summary": "以辟邪瑞兽为主体，常用于镇守和护佑装饰。",
+ "meaning": "护佑、威仪",
+ "symbolism": "驱邪、守护、威仪",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "新中式品牌视觉、文创产品、包装设计、服饰印花、网页装饰背景、展览视觉物料",
+ "visual_keywords": [
+  "瑞兽形态威严，常具角、獠牙和兽爪",
+  "青铜、石雕质感强化古雅气息",
+  "云火纹增加镇守与护佑氛围",
+  "构图可偏厚重、庄严和力量感"
+ ],
+ "tags": [
+  "龙凤瑞兽细分纹",
+  "瑞兽纹",
+  "镇守纹样",
+  "器物纹样",
+  "驱邪",
+  "守护",
+  "威仪",
+  "辟邪瑞兽",
+  "獠牙",
+  "角",
+  "云火",
+  "青铜纹理",
+  "护佑"
+ ],
+ "colors": [
+  "朱砂",
+  "金色",
+  "墨绿",
+  "青绿",
+  "米白",
+  "浅金",
+  "深蓝",
+  "墨黑",
+  "古金",
+  "青铜绿"
+ ],
+ "related": [
+  "天禄纹",
+  "兽面纹",
+  "夔龙纹"
+ ],
+ "slug": "bi-xie-wen",
+ "url": "https://wenyang.net/#/p/bi-xie-wen",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/119_辟邪纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/119_辟邪纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/119_辟邪纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "e13dff3845cf9a23fab2ef7196b0416446d15a5637c73562da39aea6fac980ab",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

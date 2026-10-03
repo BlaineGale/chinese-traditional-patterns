@@ -1,0 +1,55 @@
+{
+ "id": "178",
+ "name_cn": "蔷薇纹",
+ "name_en": "Rose Pattern",
+ "pinyin": "qiáng wēi wén",
+ "category": "植物花卉纹",
+ "summary": "蔷薇花枝攀援连续，花叶繁密柔美，寓意美好、繁盛与柔韧生机。",
+ "meaning": "圆满、生机",
+ "symbolism": "美好、柔美、繁盛",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "主体花形清晰",
+  "枝叶走势有节奏",
+  "适合半圆主视觉",
+  "适合线稿辅助装饰"
+ ],
+ "tags": [
+  "美好",
+  "柔美",
+  "繁盛",
+  "蔷薇",
+  "藤蔓",
+  "花刺",
+  "连续枝叶",
+  "圆满",
+  "生机"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "青绿",
+  "浅金"
+ ],
+ "related": [
+  "芍药纹",
+  "茶花纹",
+  "折枝桃纹",
+  "缠枝牡丹纹",
+  "花草边纹"
+ ],
+ "slug": "rose-pattern",
+ "url": "https://wenyang.net/#/p/rose-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/178_蔷薇纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/178_蔷薇纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/178_蔷薇纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "aed0d6ffb2601db7a49cb5585df5dd0e3d88899fd76bf358affaece3a45dbafc",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

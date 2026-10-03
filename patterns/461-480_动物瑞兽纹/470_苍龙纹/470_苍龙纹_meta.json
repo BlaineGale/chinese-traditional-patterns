@@ -1,0 +1,54 @@
+{
+ "id": "470",
+ "name_cn": "苍龙纹",
+ "name_en": "Canglong Dragon Pattern",
+ "pinyin": "cāng lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以苍龙盘云逐珠为核心，融入祥云、火焰与牡丹，表现苍劲威严、权威祥瑞和东方升腾之意。",
+ "meaning": "威仪、祥瑞、升腾",
+ "symbolism": "权威、祥瑞、升腾、威严",
+ "period": "不限定单一时期。相关龙凤、龙纹与祥瑞神兽题材长期见于宫廷织绣、瓷器、建筑彩画、木雕漆器和民间吉祥装饰；本批卡片为现代原创再设计，不对应或复制单一文物图案。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常由一条青苍色长龙、火焰宝珠、祥云、牡丹、山石和瑞草构成。龙身由上至下曲折延展，龙首朝向宝珠，云纹和花石沿身体两侧展开，形成纵向贯通的完整构图。",
+ "modern": "东方文化品牌视觉、建筑空间装饰、文博文创、国潮包装、游戏龙形象设定、数字插画",
+ "visual_keywords": [
+  "青苍色龙身突出沉稳与苍劲气质",
+  "修长龙体贯穿画面，具有强烈纵向张力",
+  "火焰宝珠与龙首形成明确互动",
+  "墨青、青绿、浅金和朱砂形成古朴厚重配色"
+ ],
+ "tags": [
+  "苍龙纹",
+  "青龙纹",
+  "东方龙纹",
+  "权威",
+  "祥瑞",
+  "升腾",
+  "威严",
+  "威仪"
+ ],
+ "colors": [
+  "墨黑",
+  "青绿",
+  "浅金",
+  "朱砂",
+  "米白"
+ ],
+ "related": [
+  "云龙捧珠纹",
+  "蟠龙纹",
+  "应龙纹",
+  "升龙捧日纹"
+ ],
+ "slug": "canglong-dragon-pattern",
+ "url": "https://wenyang.net/#/p/canglong-dragon-pattern",
+ "batch": "第24批_461-480_动物瑞兽纹",
+ "card_image": "patterns/461-480_动物瑞兽纹/470_苍龙纹_卡片图.jpg",
+ "detail_page": "patterns/461-480_动物瑞兽纹/470_苍龙纹_详情页.md",
+ "meta_json": "patterns/461-480_动物瑞兽纹/470_苍龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "5debfe4e2aaf8e95198ba117e785015a6193005153cffaa9d6fe13ecf0f69181",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

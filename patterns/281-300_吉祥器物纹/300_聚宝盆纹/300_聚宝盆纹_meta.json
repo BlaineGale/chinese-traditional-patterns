@@ -1,0 +1,63 @@
+{
+ "id": "300",
+ "name_cn": "聚宝盆纹",
+ "name_en": "Treasure Bowl Pattern",
+ "pinyin": "jù bǎo pén wén",
+ "category": "吉祥器物纹",
+ "summary": "以聚宝盆盛放珍宝、果实与钱币入纹，富足气息浓厚，寓意聚财、圆满与丰收。",
+ "meaning": "富贵、圆满、生机",
+ "symbolism": "聚财、富足、圆满、丰收、兴旺",
+ "period": "传统民俗财富题材中长期流行，明清年画、织绣和节庆装饰中尤为常见。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常以大型宝盆居中，盆内向上堆叠元宝、珍珠、宝石、钱币、果实和如意。盆外配置花卉、祥云、流苏和散落财宝，形成向中心汇聚的构图。",
+ "modern": "春节海报、商业促销、礼盒包装、金融活动、家居装饰、数字吉祥物",
+ "visual_keywords": [
+  "宝盆作为稳定视觉中心",
+  "珍宝与果实密集堆叠",
+  "构图饱满且向心性强",
+  "金色、玉色和暖色营造富足感"
+ ],
+ "tags": [
+  "聚宝盆纹",
+  "财富纹样",
+  "招财纹样",
+  "民俗纹样",
+  "丰收纹样",
+  "吉祥器物纹",
+  "聚财",
+  "富足",
+  "圆满",
+  "丰收",
+  "兴旺",
+  "聚宝盆",
+  "元宝",
+  "钱币",
+  "珍珠宝石",
+  "吉祥果实",
+  "富贵",
+  "生机"
+ ],
+ "colors": [
+  "古金",
+  "深青",
+  "珊瑚红",
+  "米白"
+ ],
+ "related": [
+  "金银锭纹",
+  "如意纹",
+  "祥云纹",
+  "石榴纹"
+ ],
+ "slug": "treasure-bowl-pattern",
+ "url": "https://wenyang.net/#/p/treasure-bowl-pattern",
+ "batch": "第15批_281-300_吉祥器物纹",
+ "card_image": "patterns/281-300_吉祥器物纹/300_聚宝盆纹_卡片图.jpg",
+ "detail_page": "patterns/281-300_吉祥器物纹/300_聚宝盆纹_详情页.md",
+ "meta_json": "patterns/281-300_吉祥器物纹/300_聚宝盆纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "cf61d6a87fbef30d539b03ea2d696f6f4b54e3c84ca06e3f5a348ec4e717cddc",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

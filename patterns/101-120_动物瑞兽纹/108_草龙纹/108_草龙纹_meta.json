@@ -1,0 +1,61 @@
+{
+ "id": "108",
+ "name_cn": "草龙纹",
+ "name_en": "Grass Dragon Pattern",
+ "pinyin": "cǎo lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以卷草线条构成龙形，装饰性强，常见于民间纹样，寓意生机、灵动与吉祥。",
+ "meaning": "生机、祥瑞、吉祥",
+ "symbolism": "生机、灵动、吉祥",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "草龙纹常以卷草、藤蔓和叶片组织出龙的轮廓，龙形被植物化处理，线条连续缠绕，兼具龙纹的瑞兽意味和草木纹的生机。",
+ "modern": "新中式边框、文创包装、植物主题国风图案、服饰印花、网页背景纹样",
+ "visual_keywords": [
+  "龙形由卷草和藤蔓转化而来",
+  "线条柔和、连续、装饰性强",
+  "龙首常简化或植物化",
+  "适合二方连续和满地纹",
+  "兼有民间趣味与吉祥意味"
+ ],
+ "tags": [
+  "龙纹",
+  "草龙纹",
+  "卷草纹",
+  "民间纹样",
+  "连续纹样",
+  "生机",
+  "灵动",
+  "吉祥",
+  "卷草",
+  "藤蔓",
+  "草叶",
+  "简化龙首",
+  "连续曲线",
+  "祥瑞"
+ ],
+ "colors": [
+  "青绿",
+  "浅金",
+  "米白",
+  "朱红"
+ ],
+ "related": [
+  "卷草纹",
+  "拐子龙纹",
+  "云龙纹",
+  "穿花龙纹",
+  "唐草纹"
+ ],
+ "slug": "grass-dragon-pattern",
+ "url": "https://wenyang.net/#/p/grass-dragon-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/108_草龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/108_草龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/108_草龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "1f958ab12f112b1cfc827d5c1e1b6c6b42d57744f0372149d9ab2deefbc435f0",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

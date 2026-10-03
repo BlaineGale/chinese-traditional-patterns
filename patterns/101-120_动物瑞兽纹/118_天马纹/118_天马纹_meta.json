@@ -1,0 +1,63 @@
+{
+ "id": "118",
+ "name_cn": "天马纹",
+ "name_en": "Heavenly Horse Pattern",
+ "pinyin": "tiān mǎ wén",
+ "category": "动物瑞兽纹",
+ "summary": "表现带有神话气质的奔马或翼马，富有速度感。",
+ "meaning": "升腾",
+ "symbolism": "腾达、自由、进取",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "新中式品牌视觉、文创产品、包装设计、服饰印花、网页装饰背景、展览视觉物料",
+ "visual_keywords": [
+  "奔马或翼马姿态舒展，强调速度感",
+  "云气环绕，带有升腾意象",
+  "马身与飘带形成斜向动势",
+  "适合青金、白金与深蓝配色"
+ ],
+ "tags": [
+  "龙凤瑞兽细分纹",
+  "瑞兽纹",
+  "走兽纹",
+  "神话纹样",
+  "腾达",
+  "自由",
+  "进取",
+  "天马",
+  "云气",
+  "羽翼",
+  "飘带",
+  "星点",
+  "升腾"
+ ],
+ "colors": [
+  "朱砂",
+  "金色",
+  "墨绿",
+  "青绿",
+  "米白",
+  "浅金",
+  "深蓝",
+  "墨黑",
+  "古金",
+  "青铜绿"
+ ],
+ "related": [
+  "行龙纹",
+  "云龙纹",
+  "云气纹"
+ ],
+ "slug": "tian-ma-wen",
+ "url": "https://wenyang.net/#/p/tian-ma-wen",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/118_天马纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/118_天马纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/118_天马纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "e58baa4822b504090cb0e5abdcb577229945cb298b21ecf7b7c2f4bb7a86d9a1",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

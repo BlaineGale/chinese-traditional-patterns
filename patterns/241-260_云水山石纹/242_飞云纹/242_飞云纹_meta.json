@@ -1,0 +1,63 @@
+{
+ "id": "242",
+ "name_cn": "飞云纹",
+ "name_en": "Flying Cloud Pattern",
+ "pinyin": "fēi yún wén",
+ "category": "云水山石纹",
+ "summary": "飞动云带形成纹样，具有轻盈速度感，寓意飘逸、祥瑞与自由。",
+ "meaning": "祥瑞、升腾",
+ "symbolism": "飘逸、祥瑞、自由、升腾、轻盈",
+ "period": "汉唐以来云气纹持续演变，唐宋及明清装饰艺术中常见流动飞云形态。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常由细长云带、卷曲云头和尾部流线组成。多个云形单元可沿统一方向排列，也可上下错落、相互穿插，形成连续飞动结构。",
+ "modern": "动态品牌线条、包装背景、服饰飘带纹样、网页动效、展览导视、新中式插画",
+ "visual_keywords": [
+  "云带细长舒展，速度感明显",
+  "方向性强，常呈斜向或横向飞动",
+  "云头与尾线衔接流畅",
+  "留白较多，画面轻盈",
+  "整体飘逸、灵动、富有节奏"
+ ],
+ "tags": [
+  "云水山石天象扩展纹",
+  "飞云纹",
+  "自然纹样",
+  "连续纹样",
+  "吉祥纹样",
+  "新中式",
+  "飘逸",
+  "祥瑞",
+  "自由",
+  "升腾",
+  "轻盈"
+ ],
+ "colors": [
+  "淡青",
+  "米白",
+  "浅金",
+  "青绿",
+  "暖白",
+  "青灰",
+  "白色",
+  "古金",
+  "靛蓝",
+  "金色"
+ ],
+ "related": [
+  "云海纹",
+  "朵云纹",
+  "祥云纹",
+  "云水纹"
+ ],
+ "slug": "flying-cloud-pattern",
+ "url": "https://wenyang.net/#/p/flying-cloud-pattern",
+ "batch": "第13批_241-260_云水山石纹",
+ "card_image": "patterns/241-260_云水山石纹/242_飞云纹_卡片图.jpg",
+ "detail_page": "patterns/241-260_云水山石纹/242_飞云纹_详情页.md",
+ "meta_json": "patterns/241-260_云水山石纹/242_飞云纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "4f034f1b88512f82278724aff19cfdd197fb3c8c78de9d15a654cd30f373dea1",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "173",
+ "name_cn": "桂花纹",
+ "name_en": "Osmanthus Pattern",
+ "pinyin": "guì huā wén",
+ "category": "植物花卉纹",
+ "summary": "细密桂花与枝叶成簇铺陈，气质清香雅正，寓意荣誉、吉祥与秋日清华。",
+ "meaning": "清雅、生机、吉祥",
+ "symbolism": "清香、荣誉、吉祥",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "主体花形清晰",
+  "枝叶走势有节奏",
+  "适合半圆主视觉",
+  "适合线稿辅助装饰"
+ ],
+ "tags": [
+  "清香",
+  "荣誉",
+  "吉祥",
+  "桂花",
+  "小花簇",
+  "枝叶",
+  "花枝",
+  "清雅",
+  "生机"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "青绿",
+  "浅金"
+ ],
+ "related": [
+  "菊花纹",
+  "折枝菊纹",
+  "杏花纹",
+  "梨花纹",
+  "花卉锦地纹"
+ ],
+ "slug": "osmanthus-pattern",
+ "url": "https://wenyang.net/#/p/osmanthus-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/173_桂花纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/173_桂花纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/173_桂花纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "ae248b87e5503a57a645f664a6f0b1f46ca827f90985fda97c297a61b3e46adf",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

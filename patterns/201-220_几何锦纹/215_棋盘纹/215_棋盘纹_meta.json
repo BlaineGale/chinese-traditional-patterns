@@ -1,0 +1,41 @@
+{
+ "id": "215",
+ "name_cn": "棋盘纹",
+ "name_en": "Checkerboard Pattern",
+ "pinyin": "qí pán wén",
+ "category": "几何锦纹",
+ "summary": "棋盘纹黑白或双色交替，结构明确。",
+ "meaning": "秩序、护佑",
+ "symbolism": "秩序、平衡、理性",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "",
+ "visual_keywords": [],
+ "tags": [
+  "秩序",
+  "平衡",
+  "理性",
+  "方格交替",
+  "黑白金",
+  "护佑"
+ ],
+ "colors": [
+  "米白",
+  "米色",
+  "墨黑",
+  "银灰"
+ ],
+ "related": [],
+ "slug": "checkerboard-pattern",
+ "url": "https://wenyang.net/#/p/checkerboard-pattern",
+ "batch": "第11批_201-220_几何锦纹",
+ "card_image": "patterns/201-220_几何锦纹/215_棋盘纹_卡片图.jpg",
+ "detail_page": "patterns/201-220_几何锦纹/215_棋盘纹_详情页.md",
+ "meta_json": "patterns/201-220_几何锦纹/215_棋盘纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "61953961af448a5e6cb4a9f67a26932c3fc4f4d359957974a1e58ff880fdb35f",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

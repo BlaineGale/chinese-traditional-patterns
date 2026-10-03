@@ -1,0 +1,62 @@
+{
+ "id": "102",
+ "name_cn": "行龙纹",
+ "name_en": "Walking Dragon Pattern",
+ "pinyin": "xíng lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以行进姿态的龙形入纹，身姿舒展，气势流动，常寓威仪、行运与腾达。",
+ "meaning": "威仪、吉祥、升腾",
+ "symbolism": "威仪、行运、腾达",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "行龙纹多表现侧身行进的龙形，龙首前探，龙身舒展，龙爪张开，周围常以云气、飘带和流动线条衬托其动势。",
+ "modern": "横向包装纹样、网页分隔装饰、服装局部印花、文创边饰、展览视觉延展图案",
+ "visual_keywords": [
+  "龙身较长，姿态舒展",
+  "强调横向行进和流动感",
+  "龙爪、鬃毛和须发具有动势",
+  "常与云气和流线组合",
+  "适合做横向边饰或器物环带纹"
+ ],
+ "tags": [
+  "龙纹",
+  "行龙纹",
+  "瑞兽纹",
+  "动态纹样",
+  "吉祥纹样",
+  "威仪",
+  "行运",
+  "腾达",
+  "连续纹样",
+  "侧身龙形",
+  "龙爪",
+  "云气",
+  "长身曲线",
+  "鳞片",
+  "吉祥",
+  "升腾"
+ ],
+ "colors": [
+  "深青",
+  "古金",
+  "墨绿",
+  "朱砂"
+ ],
+ "related": [
+  "团龙纹",
+  "云龙纹",
+  "升龙纹",
+  "降龙纹"
+ ],
+ "slug": "walking-dragon-pattern",
+ "url": "https://wenyang.net/#/p/walking-dragon-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/102_行龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/102_行龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/102_行龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "03a299f90dfc3b29976f9c6b13a6e0591fb48c9d01b6cc051190cf3717960884",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

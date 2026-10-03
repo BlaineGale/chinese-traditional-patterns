@@ -1,0 +1,54 @@
+{
+ "id": "177",
+ "name_cn": "芍药纹",
+ "name_en": "Paeony Pattern",
+ "pinyin": "sháo yào wén",
+ "category": "植物花卉纹",
+ "summary": "芍药花形柔美饱满，层瓣丰润舒展，寓意美丽、和合与富贵。",
+ "meaning": "圆满、富贵",
+ "symbolism": "美丽、和合、富贵",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "主体花形清晰",
+  "枝叶走势有节奏",
+  "适合半圆主视觉",
+  "适合线稿辅助装饰"
+ ],
+ "tags": [
+  "美丽",
+  "和合",
+  "富贵",
+  "芍药花",
+  "层叠花瓣",
+  "花苞",
+  "枝叶",
+  "圆满"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "青绿",
+  "浅金"
+ ],
+ "related": [
+  "牡丹纹",
+  "折枝牡丹纹",
+  "茶花纹",
+  "蔷薇纹",
+  "花卉锦地纹"
+ ],
+ "slug": "paeony-pattern",
+ "url": "https://wenyang.net/#/p/paeony-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/177_芍药纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/177_芍药纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/177_芍药纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "d7a173f9c0252782495da9a5a8a2ce2d45dd734154294649ac2c55bf9d8ab671",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "170",
+ "name_cn": "折枝桃纹",
+ "name_en": "Broken-Branch Peach Blossom Pattern",
+ "pinyin": "zhé zhī táo wén",
+ "category": "植物花卉纹",
+ "summary": "桃花折枝成纹，花苞嫩叶相映，寓意春意、美好姻缘与盎然生机。",
+ "meaning": "自然、圆满",
+ "symbolism": "春意、姻缘、美好",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉、展览图录",
+ "visual_keywords": [
+  "主体形态清晰，便于识别",
+  "枝叶与花形层次分明",
+  "右侧半圆主视觉保留传统图谱感",
+  "适合用于卡片、详情页与网站瀑布流展示"
+ ],
+ "tags": [
+  "春意",
+  "姻缘",
+  "美好",
+  "桃花",
+  "花苞",
+  "嫩叶",
+  "枝干",
+  "自然",
+  "圆满"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "浅金",
+  "青绿",
+  "朱砂",
+  "淡粉"
+ ],
+ "related": [
+  "桃花纹",
+  "折枝梅纹"
+ ],
+ "slug": "broken-branch-peach-blossom-pattern",
+ "url": "https://wenyang.net/#/p/broken-branch-peach-blossom-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/170_折枝桃纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/170_折枝桃纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/170_折枝桃纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "70a07182ab38e6277b05e204a5d5984e99a1850d3ed88605ad600028e0137e2d",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

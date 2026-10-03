@@ -1,0 +1,59 @@
+{
+ "id": "189",
+ "name_cn": "枣纹",
+ "name_en": "Jujube Pattern",
+ "pinyin": "zǎo wén",
+ "category": "植物花卉纹",
+ "summary": "枣纹常与早生贵子等民俗祝愿相关，寓意早福、多子与吉祥。",
+ "meaning": "福气、富贵、吉祥",
+ "symbolism": "早福、多子、吉祥",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "以红枣为主要识别元素",
+  "果实与枝叶组合清晰",
+  "适合做满地纹、边饰或局部装饰",
+  "具备节庆、丰收与吉祥气质"
+ ],
+ "tags": [
+  "早福",
+  "多子",
+  "吉祥",
+  "果实纹",
+  "蔬谷纹",
+  "吉祥纹样",
+  "红枣",
+  "枝叶",
+  "民俗吉祥符号",
+  "福气",
+  "富贵"
+ ],
+ "colors": [
+  "浅金",
+  "朱砂",
+  "墨绿",
+  "米白"
+ ],
+ "related": [
+  "寿桃纹",
+  "蟠桃纹",
+  "佛手纹",
+  "柿子纹",
+  "荔枝纹",
+  "枇杷纹",
+  "橘子纹"
+ ],
+ "slug": "jujube-pattern",
+ "url": "https://wenyang.net/#/p/jujube-pattern",
+ "batch": "第10批_181-200_植物花卉纹",
+ "card_image": "patterns/181-200_植物花卉纹/189_枣纹_卡片图.jpg",
+ "detail_page": "patterns/181-200_植物花卉纹/189_枣纹_详情页.md",
+ "meta_json": "patterns/181-200_植物花卉纹/189_枣纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "8007cdc518db0c1ab61ea694dcf094341c3cd4c4321e9ada25463797411e1c9a",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

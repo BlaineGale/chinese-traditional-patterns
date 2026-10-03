@@ -1,0 +1,62 @@
+{
+ "id": "105",
+ "name_cn": "云龙纹",
+ "name_en": "Cloud Dragon Pattern",
+ "pinyin": "yún lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "龙纹与祥云组合形成经典图案，常用于服饰与器物，寓意祥瑞、腾达与护佑。",
+ "meaning": "祥瑞、升腾、护佑",
+ "symbolism": "祥瑞、腾达、护佑",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "云龙纹以龙形和祥云共同构成画面，龙身穿行于云气之间，云头、卷云和流线围绕龙形展开，形成腾跃流动的整体结构。",
+ "modern": "新中式品牌纹样、服饰印花、礼盒包装、展览主视觉、网页背景装饰",
+ "visual_keywords": [
+  "龙与云纹关系紧密",
+  "云气环绕，层次丰富",
+  "龙身多呈游动或腾跃状态",
+  "色彩常见金、青、朱砂组合",
+  "适合作为满地纹、团纹或器物主纹"
+ ],
+ "tags": [
+  "龙纹",
+  "云龙纹",
+  "祥云纹",
+  "瑞兽纹",
+  "吉祥纹样",
+  "祥瑞",
+  "腾达",
+  "护佑",
+  "云纹",
+  "游龙",
+  "祥云",
+  "卷云",
+  "火珠",
+  "金线",
+  "升腾"
+ ],
+ "colors": [
+  "金色",
+  "青蓝",
+  "朱砂",
+  "墨绿"
+ ],
+ "related": [
+  "团龙纹",
+  "行龙纹",
+  "升龙纹",
+  "降龙纹",
+  "如意云纹"
+ ],
+ "slug": "cloud-dragon-pattern",
+ "url": "https://wenyang.net/#/p/cloud-dragon-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/105_云龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/105_云龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/105_云龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "3df620112a66f8194a5953107162c5c8761a523f2b0f3c686f44775244a4af97",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "500",
+ "name_cn": "神兽团纹",
+ "name_en": "Mythic Beast Medallion Pattern",
+ "pinyin": "shén shòu tuán wén",
+ "category": "动物瑞兽纹",
+ "summary": "以多种神兽环绕中央宝珠组成圆形团纹为核心，融合祥云、云火与花卉，表现祥瑞汇聚、护佑圆满与尊贵秩序。",
+ "meaning": "祥瑞、威仪、护佑、圆满",
+ "symbolism": "祥瑞、威仪、护佑、圆满",
+ "period": "不限定单一时期。相关狮子、麒麟、天马、夔兽、兽面及复合神兽题材长期见于青铜器、建筑彩画、宫廷织绣、瓷器、石刻、木雕漆器和民间吉祥装饰；本批卡片为现代原创再设计，不对应或复制单一文物图案。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常由圆形边框、中央火焰宝珠、龙、麒麟、狮兽或其他神兽、祥云、花卉与瑞草组成。多种神兽围绕中心排列，圆形边界保持整体秩序。",
+ "modern": "品牌徽章与章纹、文博文创、礼赠包装、空间穹顶装饰、游戏世界观图腾、数字插画",
+ "visual_keywords": [
+  "圆形团纹结构完整，视觉聚合度高",
+  "多种神兽同场但层级清晰",
+  "中央宝珠建立统一视觉中心",
+  "青绿浅金朱砂与米白呈现庄重华彩"
+ ],
+ "tags": [
+  "神兽团纹",
+  "神兽纹",
+  "团花纹",
+  "复合祥瑞纹",
+  "祥瑞",
+  "威仪",
+  "护佑",
+  "圆满"
+ ],
+ "colors": [
+  "青绿",
+  "浅金",
+  "朱砂",
+  "米白",
+  "墨黑"
+ ],
+ "related": [
+  "麒麟祥云纹",
+  "狮子滚绣球纹"
+ ],
+ "slug": "mythic-beast-medallion-pattern",
+ "url": "https://wenyang.net/#/p/mythic-beast-medallion-pattern",
+ "batch": "第25批_481-500_动物瑞兽纹",
+ "card_image": "patterns/481-500_动物瑞兽纹/500_神兽团纹_卡片图.jpg",
+ "detail_page": "patterns/481-500_动物瑞兽纹/500_神兽团纹_详情页.md",
+ "meta_json": "patterns/481-500_动物瑞兽纹/500_神兽团纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "d541f930351718c5d74d3ac0260807e8b62f4ee982ca3eba307c81814d1a505a",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

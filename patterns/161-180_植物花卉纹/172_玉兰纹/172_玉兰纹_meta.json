@@ -1,0 +1,53 @@
+{
+ "id": "172",
+ "name_cn": "玉兰纹",
+ "name_en": "Magnolia Pattern",
+ "pinyin": "yù lán wén",
+ "category": "植物花卉纹",
+ "summary": "玉兰花形舒展洁净，枝干疏朗挺拔，寓意高洁、清香与雅致。",
+ "meaning": "清雅",
+ "symbolism": "高洁、清香、雅致",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [
+  "主体花形清晰",
+  "枝叶走势有节奏",
+  "适合半圆主视觉",
+  "适合线稿辅助装饰"
+ ],
+ "tags": [
+  "高洁",
+  "清香",
+  "雅致",
+  "玉兰花",
+  "花苞",
+  "枝干",
+  "叶片",
+  "清雅"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "青绿",
+  "浅金"
+ ],
+ "related": [
+  "折枝梅纹",
+  "梨花纹",
+  "杏花纹",
+  "兰草纹"
+ ],
+ "slug": "magnolia-pattern",
+ "url": "https://wenyang.net/#/p/magnolia-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/172_玉兰纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/172_玉兰纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/172_玉兰纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "bd80631fe85faa05fdf1520ff19fbb5f61811ce8f72f8db9ff8d4d25f1c5694d",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

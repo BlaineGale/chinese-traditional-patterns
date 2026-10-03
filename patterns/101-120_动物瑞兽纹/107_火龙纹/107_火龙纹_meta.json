@@ -1,0 +1,60 @@
+{
+ "id": "107",
+ "name_cn": "火龙纹",
+ "name_en": "Fire Dragon Pattern",
+ "pinyin": "huǒ lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以龙与火焰纹组合，视觉强烈，充满力量感，寓意能量、威慑与护佑。",
+ "meaning": "威仪、护佑",
+ "symbolism": "能量、威慑、护佑",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "火龙纹以龙形与火焰纹相互缠绕为主体，火焰围绕龙身、龙首和火珠展开，形成强烈的旋转与爆发感。",
+ "modern": "节庆海报、品牌视觉符号、礼盒包装、游戏与国风插画、舞台视觉纹样",
+ "visual_keywords": [
+  "红金色彩鲜明，视觉张力强",
+  "火焰线条围绕龙身流动",
+  "龙首和龙爪常被强化",
+  "动势强烈，适合中心构图",
+  "常表达威慑、护佑与力量"
+ ],
+ "tags": [
+  "龙纹",
+  "火龙纹",
+  "火焰纹",
+  "瑞兽纹",
+  "力量纹样",
+  "能量",
+  "威慑",
+  "护佑",
+  "龙形",
+  "火焰",
+  "火珠",
+  "云火",
+  "金线",
+  "威仪"
+ ],
+ "colors": [
+  "朱砂",
+  "古金",
+  "墨褐",
+  "墨绿"
+ ],
+ "related": [
+  "云龙纹",
+  "升龙纹",
+  "降龙纹",
+  "火焰纹"
+ ],
+ "slug": "fire-dragon-pattern",
+ "url": "https://wenyang.net/#/p/fire-dragon-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/107_火龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/107_火龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/107_火龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "60c2b0c8b2bc18e69e5cf02d50857b577d81c27ac900978fcc40a1441462e36d",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

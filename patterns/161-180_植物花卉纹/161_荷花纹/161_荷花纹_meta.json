@@ -1,0 +1,55 @@
+{
+ "id": "161",
+ "name_cn": "荷花纹",
+ "name_en": "Lotus Flower Pattern",
+ "pinyin": "hé huā wén",
+ "category": "植物花卉纹",
+ "summary": "以盛开的荷花为主，常与荷叶、水波组合，画面清雅澄净，寓意高洁和美。",
+ "meaning": "清雅、圆满",
+ "symbolism": "清净、高洁、和美",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉、展览图录",
+ "visual_keywords": [
+  "主体形态清晰，便于识别",
+  "枝叶与花形层次分明",
+  "右侧半圆主视觉保留传统图谱感",
+  "适合用于卡片、详情页与网站瀑布流展示"
+ ],
+ "tags": [
+  "清净",
+  "高洁",
+  "和美",
+  "荷花",
+  "荷叶",
+  "莲蓬",
+  "水波",
+  "清雅",
+  "圆满"
+ ],
+ "colors": [
+  "米白",
+  "墨绿",
+  "浅金",
+  "青绿",
+  "朱砂",
+  "淡粉"
+ ],
+ "related": [
+  "莲瓣纹",
+  "折枝莲纹",
+  "缠枝莲纹"
+ ],
+ "slug": "lotus-flower-pattern",
+ "url": "https://wenyang.net/#/p/lotus-flower-pattern",
+ "batch": "第09批_161-180_植物花卉纹",
+ "card_image": "patterns/161-180_植物花卉纹/161_荷花纹_卡片图.jpg",
+ "detail_page": "patterns/161-180_植物花卉纹/161_荷花纹_详情页.md",
+ "meta_json": "patterns/161-180_植物花卉纹/161_荷花纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "9c94ab88065e4b1332515c65e03fca78b65ad867057d8f5edd3b852212a4d770",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

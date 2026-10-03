@@ -1,0 +1,51 @@
+{
+ "id": "144",
+ "name_cn": "螺纹",
+ "name_en": "Conch Pattern",
+ "pinyin": "luó wén",
+ "category": "动物瑞兽纹",
+ "summary": "螺纹以旋壳线形为主，兼具自然与几何之美，寓意流转、珍贵与生机。",
+ "meaning": "秩序、富贵、自然",
+ "symbolism": "流转、珍贵、自然",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、新中式品牌视觉",
+ "visual_keywords": [],
+ "tags": [
+  "流转",
+  "珍贵",
+  "自然",
+  "螺壳",
+  "旋线",
+  "水波",
+  "贝纹",
+  "珍珠",
+  "秩序",
+  "富贵"
+ ],
+ "colors": [
+  "深青",
+  "米白",
+  "浅金",
+  "白色"
+ ],
+ "related": [
+  "贝壳纹",
+  "海螺纹",
+  "蚌纹",
+  "旋波纹",
+  "云水纹"
+ ],
+ "slug": "144-conch-pattern",
+ "url": "https://wenyang.net/#/p/144-conch-pattern",
+ "batch": "第08批_141-160_动物瑞兽纹",
+ "card_image": "patterns/141-160_动物瑞兽纹/144_螺纹_卡片图.jpg",
+ "detail_page": "patterns/141-160_动物瑞兽纹/144_螺纹_详情页.md",
+ "meta_json": "patterns/141-160_动物瑞兽纹/144_螺纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "2897acfd5b27607c80c3646878ed15b293121ff93639dbbc3306f83d9e911da4",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

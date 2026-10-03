@@ -1,0 +1,62 @@
+{
+ "id": "106",
+ "name_cn": "水龙纹",
+ "name_en": "Water Dragon Pattern",
+ "pinyin": "shuǐ lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以龙与水波、浪涛组合，强调水势与灵动气息，寓意润泽、雨水与力量。",
+ "meaning": "自然、威仪",
+ "symbolism": "润泽、雨水、力量",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "水龙纹以龙形和水波、浪涛共同组织画面。龙身常在浪花中穿行或盘绕，水线与龙身走势相互呼应，形成流动而有力量感的装饰结构。",
+ "modern": "茶饮包装、水文化品牌视觉、夏季主题文创、海报底纹、服饰局部纹样",
+ "visual_keywords": [
+  "水波与龙身形成连续动势",
+  "浪花层叠，线条流畅",
+  "常使用青蓝、白浪和金线强调水感",
+  "画面兼具灵动与力量",
+  "适合用于水、雨、润泽等主题"
+ ],
+ "tags": [
+  "龙纹",
+  "水龙纹",
+  "水波纹",
+  "海水纹",
+  "瑞兽纹",
+  "润泽",
+  "雨水",
+  "力量",
+  "水纹",
+  "龙形",
+  "水波",
+  "浪涛",
+  "浪花",
+  "云气",
+  "自然",
+  "威仪"
+ ],
+ "colors": [
+  "青蓝",
+  "白色",
+  "古金",
+  "米白"
+ ],
+ "related": [
+  "云龙纹",
+  "海水江崖纹",
+  "水波纹",
+  "行龙纹"
+ ],
+ "slug": "water-dragon-pattern",
+ "url": "https://wenyang.net/#/p/water-dragon-pattern",
+ "batch": "第06批_101-120_动物瑞兽纹",
+ "card_image": "patterns/101-120_动物瑞兽纹/106_水龙纹_卡片图.jpg",
+ "detail_page": "patterns/101-120_动物瑞兽纹/106_水龙纹_详情页.md",
+ "meta_json": "patterns/101-120_动物瑞兽纹/106_水龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "01c48d86d26de811fbca4fafdf5bb6f2739253cacec469b4b33cdb576ebcf3bb",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

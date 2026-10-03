@@ -1,0 +1,61 @@
+{
+ "id": "151",
+ "name_cn": "蜻蜓纹",
+ "name_en": "Dragonfly Pattern",
+ "pinyin": "qīng tíng wén",
+ "category": "动物瑞兽纹",
+ "summary": "蜻蜓纹轻盈灵动，常与荷花水草相配，寓意轻盈、清新与夏意之美。",
+ "meaning": "祥瑞、清雅",
+ "symbolism": "轻盈、清新、夏意",
+ "period": "宋元以来花鸟草虫题材逐渐丰富，明清织绣、瓷器与绘画中较为常见。",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "文创产品、包装设计、服饰印花、网页背景、装饰边框、博物馆图录、新中式品牌视觉",
+ "visual_keywords": [
+  "蜻蜓翅膀透明纤细，线条轻快",
+  "常与荷花、荷叶、水草、水波组合",
+  "构图多留白，气质清新",
+  "适合表现夏日、水边与自然生趣"
+ ],
+ "tags": [
+  "轻盈",
+  "清新",
+  "夏意",
+  "草虫纹",
+  "花鸟纹",
+  "自然纹样",
+  "吉祥纹样",
+  "蜻蜓",
+  "荷叶",
+  "水面",
+  "淡色",
+  "祥瑞",
+  "清雅"
+ ],
+ "colors": [
+  "青绿",
+  "米白",
+  "浅金",
+  "深蓝",
+  "墨黑",
+  "水青"
+ ],
+ "related": [
+  "荷花纹",
+  "水草纹",
+  "荷塘鱼藻纹",
+  "蝶恋花纹",
+  "团蝶纹"
+ ],
+ "slug": "dragonfly-pattern",
+ "url": "https://wenyang.net/#/p/dragonfly-pattern",
+ "batch": "第08批_141-160_动物瑞兽纹",
+ "card_image": "patterns/141-160_动物瑞兽纹/151_蜻蜓纹_卡片图.jpg",
+ "detail_page": "patterns/141-160_动物瑞兽纹/151_蜻蜓纹_详情页.md",
+ "meta_json": "patterns/141-160_动物瑞兽纹/151_蜻蜓纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "977cdaeee283d7050360eedcd90874637ef3820bbc1a6160fe8ce26cb99557c6",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

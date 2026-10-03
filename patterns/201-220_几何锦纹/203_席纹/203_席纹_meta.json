@@ -1,0 +1,42 @@
+{
+ "id": "203",
+ "name_cn": "席纹",
+ "name_en": "Mat Weave Pattern",
+ "pinyin": "xí wén",
+ "category": "几何锦纹",
+ "summary": "席纹仿编织纹理，结构朴素规整。",
+ "meaning": "秩序、生机",
+ "symbolism": "朴素、秩序、生活气息",
+ "period": "",
+ "region": "",
+ "carriers": [],
+ "composition": "",
+ "modern": "",
+ "visual_keywords": [],
+ "tags": [
+  "朴素",
+  "秩序",
+  "生活气息",
+  "编织交错",
+  "米色",
+  "竹席感",
+  "生机"
+ ],
+ "colors": [
+  "米白",
+  "米色",
+  "银灰",
+  "金色"
+ ],
+ "related": [],
+ "slug": "mat-weave-pattern",
+ "url": "https://wenyang.net/#/p/mat-weave-pattern",
+ "batch": "第11批_201-220_几何锦纹",
+ "card_image": "patterns/201-220_几何锦纹/203_席纹_卡片图.jpg",
+ "detail_page": "patterns/201-220_几何锦纹/203_席纹_详情页.md",
+ "meta_json": "patterns/201-220_几何锦纹/203_席纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "c471159f71314495b4ecbdd64d5aa8ed55f0188e649c1990af5d9567ddb07f5e",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}

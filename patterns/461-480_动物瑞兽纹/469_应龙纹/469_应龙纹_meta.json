@@ -1,0 +1,52 @@
+{
+ "id": "469",
+ "name_cn": "应龙纹",
+ "name_en": "Winged Dragon Pattern",
+ "pinyin": "yìng lóng wén",
+ "category": "动物瑞兽纹",
+ "summary": "以有翼应龙腾空为核心，融合祥云、火焰宝珠与牡丹，展现飞腾神异、权威祥瑞和升空之势。",
+ "meaning": "威仪、祥瑞、升腾",
+ "symbolism": "权威、祥瑞、升腾、神异",
+ "period": "不限定单一时期。相关龙凤、龙纹与祥瑞神兽题材长期见于宫廷织绣、瓷器、建筑彩画、木雕漆器和民间吉祥装饰；本批卡片为现代原创再设计，不对应或复制单一文物图案。",
+ "region": "",
+ "carriers": [],
+ "composition": "通常由一条有翼应龙、火焰宝珠、祥云、牡丹和瑞草构成。龙身盘曲于画面中央，两翼向上或向两侧展开，龙首朝向宝珠，羽翼与云纹共同形成放射式升腾结构。",
+ "modern": "幻想文化品牌、游戏与影视神兽设定、文博文创、节庆主视觉、服饰印花、数字插画",
+ "visual_keywords": [
+  "龙身与大型羽翼结合，识别度极高",
+  "展开双翼形成强烈向上与向外张力",
+  "羽毛、鳞片和云火线条细密交织",
+  "青绿、浅金、朱砂和宝蓝形成神异华丽气质"
+ ],
+ "tags": [
+  "应龙纹",
+  "翼龙纹",
+  "飞龙纹",
+  "权威",
+  "祥瑞",
+  "升腾",
+  "神异",
+  "威仪"
+ ],
+ "colors": [
+  "青绿",
+  "深蓝",
+  "浅金",
+  "朱砂",
+  "米白"
+ ],
+ "related": [
+  "升龙捧日纹",
+  "苍龙纹"
+ ],
+ "slug": "winged-dragon-pattern",
+ "url": "https://wenyang.net/#/p/winged-dragon-pattern",
+ "batch": "第24批_461-480_动物瑞兽纹",
+ "card_image": "patterns/461-480_动物瑞兽纹/469_应龙纹_卡片图.jpg",
+ "detail_page": "patterns/461-480_动物瑞兽纹/469_应龙纹_详情页.md",
+ "meta_json": "patterns/461-480_动物瑞兽纹/469_应龙纹_meta.json",
+ "image_size": "1086x1448",
+ "image_sha256": "a2a1b79648453af4bbec87dc1ebe37ab41950f5cdb8999da883132e1a2c39cea",
+ "source_note": "图案由 wenyang.net 中国传统纹样图鉴原创生成与再设计，不直接复制具体文物图案。内容授权 CC BY-NC 4.0。",
+ "source_site": "https://wenyang.net"
+}
