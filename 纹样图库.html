@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>中国传统纹样图鉴 · 100 纹样本地图库</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#141210;color:#e8e2d9;font-family:"Microsoft YaHei","PingFang SC",sans-serif;padding:0 0 60px}
+header{position:sticky;top:0;z-index:100;background:rgba(20,18,16,.96);backdrop-filter:blur(12px);border-bottom:1px solid #3a332c;padding:18px 28px 14px}
+h1{font-size:19px;font-weight:600;letter-spacing:1px;color:#f0e8dc}
+h1 span{color:#c9a961;font-size:13px;margin-left:10px;letter-spacing:0}
+.lic{margin-top:8px;font-size:12px;color:#c9a961;background:rgba(201,169,97,.1);border:1px solid rgba(201,169,97,.3);border-radius:4px;padding:7px 11px;line-height:1.6}
+.lic b{color:#e0c07a}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
+input[type=search]{flex:1;min-width:210px;background:#221e1a;border:1px solid #3a332c;border-radius:5px;padding:9px 13px;color:#e8e2d9;font-size:13px;outline:none}
+input[type=search]:focus{border-color:#c9a961}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{background:#221e1a;border:1px solid #3a332c;color:#b8ada0;border-radius:20px;padding:7px 13px;font-size:12.5px;cursor:pointer;transition:.15s;user-select:none}
+.chip:hover{border-color:#7a6a55;color:#e8e2d9}
+.chip.on{background:#c9a961;border-color:#c9a961;color:#1a1714;font-weight:600}
+.count{font-size:12.5px;color:#8a8078;margin-left:auto;white-space:nowrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:20px;padding:24px 28px}
+.card{background:#1e1b18;border:1px solid #322c26;border-radius:8px;overflow:hidden;cursor:pointer;transition:.18s;display:flex;flex-direction:column}
+.card:hover{border-color:#c9a961;transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.45)}
+.thumb{position:relative;width:100%;aspect-ratio:3/4;background:#100e0c;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.no{position:absolute;top:7px;left:7px;background:rgba(0,0,0,.72);color:#c9a961;font-size:11px;padding:2px 7px;border-radius:3px;letter-spacing:.5px}
+.info{padding:11px 12px 13px;flex:1;display:flex;flex-direction:column}
+.nm{font-size:14.5px;font-weight:600;color:#f0e8dc;margin-bottom:5px}
+.en{font-size:10.5px;color:#7d746a;line-height:1.4;margin-bottom:7px;font-style:italic}
+.mn{font-size:12px;color:#b8956a;line-height:1.5;margin-bottom:8px}
+.kw{display:flex;flex-wrap:wrap;gap:4px;margin-top:auto}
+.kw i{font-style:normal;font-size:10.5px;background:#2a2521;color:#948a7e;border-radius:3px;padding:2px 6px}
+.empty{text-align:center;padding:70px 20px;color:#7d746a;font-size:14px}
+/* 灯箱 */
+.mask{position:fixed;inset:0;background:rgba(8,7,6,.95);z-index:1000;display:none;align-items:center;justify-content:center;padding:22px}
+.mask.on{display:flex}
+.box{background:#1a1714;border:1px solid #3a332c;border-radius:10px;max-width:1000px;width:100%;max-height:92vh;display:flex;overflow:hidden}
+.box img{max-width:52%;object-fit:contain;background:#0d0b0a;min-height:340px}
+.info2{padding:24px 26px;overflow-y:auto;flex:1}
+.info2 h2{font-size:22px;color:#f0e8dc;margin-bottom:5px}
+.info2 .en2{font-size:12.5px;color:#7d746a;font-style:italic;margin-bottom:16px}
+.row{margin-bottom:14px}
+.row h4{font-size:11.5px;color:#c9a961;letter-spacing:1.5px;margin-bottom:6px}
+.row p{font-size:13.5px;color:#d4ccc1;line-height:1.75}
+.copy{margin-top:20px;background:#2a2521;border:1px solid #3a332c;border-radius:5px;padding:11px 13px;font-size:11.5px;color:#b8ada0;line-height:1.7;user-select:all}
+.x{position:absolute;top:14px;right:18px;font-size:28px;color:#7d746a;cursor:pointer;line-height:1;z-index:10}
+.x:hover{color:#c9a961}
+.nav{position:fixed;top:50%;transform:translateY(-50%);font-size:38px;color:#5a5248;cursor:pointer;padding:20px;z-index:1001;user-select:none}
+.nav:hover{color:#c9a961}
+.nav.l{left:8px}.nav.r{right:8px}
+@media(max-width:760px){.nav{display:none}.box{flex-direction:column;overflow-y:auto}.box img{max-width:100%;max-height:44vh}.grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;padding:16px}.card .en{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <h1>中国传统纹样图鉴<span>100 纹样 · 本地离线浏览</span></h1>
+  <div class="lic"><b>授权提示：</b>本图库纹样图像与文字内容为 <b>CC BY-NC 4.0</b>，限非商业用途、需署名。银器商品、景区物料、包装设计等商业场景不可直接使用。署名：纹样 by BLCaptain（爆裂队长NEXT）— 中国传统纹样图鉴 Wényàng（wenyang.net）</div>
+  <div class="bar">
+    <input type="search" id="q" placeholder="搜索纹样名、寓意、关键词，如：长寿 / 龙 / 錾刻 / 青绿">
+    <div class="chips" id="chips"></div>
+    <div class="count" id="cnt"></div>
+  </div>
+</header>
+<div class="grid" id="g"></div>
+<div class="empty" id="emp" style="display:none">没有匹配的纹样，换个词试试</div>
+
+<div class="mask" id="mask">
+  <div class="x" id="x">&times;</div>
+  <div class="nav l" id="pl">&#8249;</div>
+  <div class="nav r" id="pr">&#8250;</div>
+  <div class="box">
+    <img id="bi" alt="">
+    <div class="info2">
+      <h2 id="t"></h2>
+      <div class="en2" id="e"></div>
+      <div class="row"><h4>一句话简介</h4><p id="s"></p></div>
+      <div class="row"><h4>文化寓意</h4><p id="m"></p></div>
+      <div class="row"><h4>视觉关键词</h4><p id="k"></p></div>
+      <div class="row"><h4>图片规格</h4><p id="z"></p></div>
+      <div class="row"><h4>素材说明</h4><p id="o"></p></div>
+      <div class="copy">纹样 by BLCaptain（爆裂队长NEXT）— 中国传统纹样图鉴 Wényàng (wenyang.net)，licensed under CC BY-NC 4.0</div>
+    </div>
+  </div>
+</div>
+
+<script src="_data.js"></script>
+<script>
+const CATS=["全部","植物花卉纹","动物瑞兽纹","几何锦纹","云水山石纹","吉祥器物纹","文字福寿与组合纹"];
+let cur="全部",kw="",list=PATTERNS.slice();
+
+const g=document.getElementById('g'),cnt=document.getElementById('cnt'),emp=document.getElementById('emp');
+const chips=document.getElementById('chips');
+CATS.forEach((c,i)=>{
+  const b=document.createElement('div');
+  b.className='chip'+(i===0?' on':'');b.textContent=c;b.dataset.c=c;
+  b.onclick=()=>{document.querySelectorAll('.chip').forEach(x=>x.classList.remove('on'));b.classList.add('on');cur=c;run();};
+  chips.appendChild(b);
+});
+
+function run(){
+  kw=document.getElementById('q').value.trim().toLowerCase();
+  list=PATTERNS.filter(p=>{
+    if(cur!=='全部'&&p.category!==cur)return false;
+    if(!kw)return true;
+    const hay=(p.name_cn+p.name_en+p.meaning+p.summary+p.visual_keywords.join('')+p.category).toLowerCase();
+    return hay.includes(kw);
+  });
+  draw();
+}
+
+function draw(){
+  g.innerHTML='';
+  if(!list.length){emp.style.display='block';cnt.textContent='0 个';return;}
+  emp.style.display='none';
+  cnt.textContent=list.length+' 个纹样';
+  list.forEach(p=>{
+    const c=document.createElement('div');c.className='card';
+    c.innerHTML=`<div class="thumb"><img loading="lazy" src="${p.card_image}" alt="${p.name_cn}"><span class="no">${p.id}</span></div>
+      <div class="info"><div class="nm">${p.name_cn}</div><div class="en">${p.name_en}</div>
+      <div class="mn">${p.meaning}</div>
+      <div class="kw">${p.visual_keywords.slice(0,4).map(k=>'<i>'+k+'</i>').join('')}</div></div>`;
+    c.onclick=()=>open(list.indexOf(p));
+    g.appendChild(c);
+  });
+}
+
+let idx=0;
+const mask=document.getElementById('mask');
+function open(i){
+  idx=i;const p=list[i];if(!p)return;
+  document.getElementById('bi').src=p.card_image;
+  document.getElementById('t').textContent=p.id+' '+p.name_cn;
+  document.getElementById('e').textContent=p.name_en;
+  document.getElementById('s').textContent=p.summary;
+  document.getElementById('m').textContent=p.meaning;
+  document.getElementById('k').textContent=p.visual_keywords.join(' · ');
+  document.getElementById('z').textContent=p.image_size+' · 编号 '+p.id+' · 分类 '+p.category;
+  document.getElementById('o').textContent=p.source_note;
+  mask.classList.add('on');
+}
+function close(){mask.classList.remove('on');}
+function mv(d){const n=(idx+d+list.length)%list.length;open(n);}
+
+document.getElementById('x').onclick=close;
+mask.onclick=e=>{if(e.target===mask)close();};
+document.getElementById('pr').onclick=e=>{e.stopPropagation();mv(1);};
+document.getElementById('pl').onclick=e=>{e.stopPropagation();mv(-1);};
+document.addEventListener('keydown',e=>{
+  if(!mask.classList.contains('on'))return;
+  if(e.key==='Escape')close();if(e.key==='ArrowRight')mv(1);if(e.key==='ArrowLeft')mv(-1);
+});
+document.getElementById('q').addEventListener('input',run);
+run();
+</script>
+</body>
+</html>
