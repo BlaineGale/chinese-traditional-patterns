@@ -273,3 +273,15 @@ A：见 [参与共建](#-参与共建)，开 Issue / PR 或直接联系作者。
 感谢中国历代匠人留下的纹样之美。本项目以现代设计语言重新诠释传统，愿这份美得以被更多人看见、使用与延续。
 
 <div align="center"><sub>纹脉不绝，生生不息。</sub></div>
+
+---
+
+## 本地镜像说明
+
+本仓库为 `dososo/chinese-traditional-patterns` 的镜像克隆。
+
+- 上游仓库：https://github.com/dososo/chinese-traditional-patterns
+- 在线图录站：https://wenyang.net
+- 作者：爆裂队长NEXT（BLCaptain）
+- **内容许可：CC BY-NC 4.0**（限非商业用途，须署名；仅代码与数据结构为 MIT）
+- 用途：纹样素材存档与二次开发参考
